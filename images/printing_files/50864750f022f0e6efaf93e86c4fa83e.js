@@ -1,0 +1,1 @@
+Bootstrapper.bindDependencyDOMLoaded(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.insertScript("//js.dmtry.com/channel.js#gid:3433;advid:919;pid:457141")},564930,[641189],208784,[151550]);

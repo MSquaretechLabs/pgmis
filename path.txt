@@ -1,0 +1,23 @@
+/usr/local/tomcat/webapps/www.nidhiashok.in/pgmis/docs/styles
+
+/usr/local/tomcat/webapps/www.nidhiashok.in/pgmis/images/prints
+
+/usr/local/tomcat/webapps/www.nidhiashok.in/pgmis/images/prints
+
+C:/Tomcat 6.0/webapps/pgmis/docs/styles
+
+
+C:/Tomcat 6.0/webapps/pgmis/images/prints
+
+
+C:/Tomcat 6.0/webapps/pgmis/images/tailors
+
+
+/usr/local/tomcat/webapps/www.nidhiashok.in/pgmis/images/tailors
+
+
+
+
+/usr/local/tomcat/webapps/www.pushkarganesh.com/pgmis/images/prints
+
+
